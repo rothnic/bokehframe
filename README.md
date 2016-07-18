@@ -22,3 +22,8 @@ df.plot()
 Produces the following output:
 
 ![](http://i.imgur.com/ojFwNtB.png)
+
+
+Compared to the standard matplotlib-based output from Pandas:
+
+![](http://i.imgur.com/rsJW2wg.png)
